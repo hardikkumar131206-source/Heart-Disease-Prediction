@@ -165,12 +165,11 @@ Based on the UCI Heart Disease dataset originally collected from the Cleveland C
 Detrano, R., et al. (1989). International application of a new probability algorithm for the diagnosis of coronary artery disease. American Journal of Cardiology, 64(5), 304-310.
 
 ---
-
 ##  Author
 
 **Hardik Kumar**
 📧 hardikumar131206@gmail.com
-🔗 [linkedin.com/in/yourprofile](https://www.linkedin.com/in/hardik-kumar-7631a832b)
-🐙 [github.com/your-username](https://github.com/hardikkumar131206-source)
+🔗 [linkedin.com/in](https://www.linkedin.com/in/hardik-kumar-7631a832b)
+🐙 [github.com](https://github.com/hardikkumar131206-source)
 
 ---
